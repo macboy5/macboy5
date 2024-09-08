@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=macboy0503)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=macboy0503)](https://solved.ac/macboy0503/)
+
 
 <!--
 **macboy5/macboy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
